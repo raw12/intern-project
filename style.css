@@ -88,10 +88,9 @@ background-color: #fff;
 /* Title Image */
 
 .title-img{
-  width:60%;
-  /* transform: rotate(25deg); */
+  width:80%;
   position:absolute;
-  left: 35%;
+  left: 22%;
 }
 
 
